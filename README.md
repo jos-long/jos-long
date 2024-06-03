@@ -1,12 +1,9 @@
-Joseph Long
-============================
-
-Data Analyst
+From Logician to Data Analyst
 ------------
 
 Having been an academic department chair and taught logic, probabilities, and statistics, I am moving from academia to the data field.
 
-* 🌍  I'm based in Rochester, NY
+* 🌍  I'm based in the greater Rochester, NY area
 
 ### Skills
 
