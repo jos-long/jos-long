@@ -1,7 +1,7 @@
 From Department Chair to Data Analyst
 ------------
 
-Making the Move!  Having served as a department chair and taught logic and probability, I am moving from academia to the data field.
+Having served as a department chair and taught logic and probability, I am moving from academia to the data field.
 
 * 🌍  I'm based in Rochester, NY
 * ✉️  You can contact me at [jos.long@hotmail.com](mailto:jos.long@hotmail.com)
