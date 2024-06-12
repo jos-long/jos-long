@@ -1,7 +1,6 @@
 Joseph Long
 ------------
-
-Perpetually curious and a life-long learning by nature.
+Perpetually curious and a life-long learner by nature.
 
 Having served as a department chair and taught logic and probability, I am moving from academia to the data field.
 
