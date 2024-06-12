@@ -2,7 +2,7 @@ Joseph Long
 ------------
 Perpetually curious and a life-long learner by nature.
 
-Having served as a department chair and taught logic and probability, I am moving from academia to the data field.
+Having served as a department chair and taught logic and probability, I am making the move from academia to the data field.
 
 * 🌍  I'm based in Rochester, NY
 * ✉️  You can contact me at [jos.long@hotmail.com](mailto:jos.long@hotmail.com)
