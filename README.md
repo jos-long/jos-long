@@ -15,7 +15,7 @@ Having served as a department chair and taught logic and probability, I am makin
 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a> <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://github.com/jos-long/jos-long/blob/main/jupyter_logo.png" width="36" height="36" alt="Jupyter" /></a>
 
-<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://github.com/jos-long/jos-long/blob/main/jira_logo_02.png" width="36" height="36" alt="Jira" /></a>
+<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://github.com/jos-long/jos-long/blob/main/jira_logo_02.jpg" width="36" height="36" alt="Jira" /></a>
 
 <!-- PostgreSQL:
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>-->
