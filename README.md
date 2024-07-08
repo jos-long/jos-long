@@ -1,7 +1,10 @@
 <h1>Joseph Long</h1>
-Perpetually curious and a life-long learner by nature.
+<h4>Perpetually curious and a life-long learner by nature.</h4>
+<p>Having served as a department chair and taught courses in logic, probability, and decision theory, I am excited to transition from academia to the field of technology.</p>
+<p>I am especially interested in utilizing data-driven decision-making within agile frameworks in order to help teams enhance their operational efficiency, improve project outcomes, rapidly adapt to changing market conditions, and foster continuous improvement through evidence-based insights and rapid feedback loops.</p>
+<h1></h1>
 
-Having served as a department chair and taught logic, probability, and decision theory, I am making the move from academia to the data field.
+
 
 * 🌍  I'm based in Rochester, NY
 * ✉️  You can contact me at [jos.long@hotmail.com](mailto:jos.long@hotmail.com)
