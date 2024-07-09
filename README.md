@@ -9,6 +9,7 @@
 <ul>
   <li>Experience leading teams of recognized experts in their own fields</li>
   <li>Ability to work both independently and in a collaborative team environment</li>
+  <li>Deep understanding of the Scrum framework</li>
   <li>Highly developed critical thinking and problem-solving skills</li>
   <li>Well-honed written, verbal, and interpersonal skills</li>
   <li>Perpetual curiousity, a high degree of self-motivatation, and the ability to learn new things very quickly</li>
