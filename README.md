@@ -3,24 +3,31 @@
 
 <p>Having served as a department chair and taught courses in logic, probability, and decision theory, I am excited to transition from academia to technology.</p>
 
-<p>I am especially interested in utilizing data-driven decision-making skills within agile frameworks to help teams enhance their operational efficiency and improve their project outcomes through rapidly adapting to changing market conditions and fostering continuous improvement through rapid, evidence-based feedback loops.</p>
+<p>I am especially interested in refining data-driven decision-making within agile frameworks in order to help teams improve their operational efficiency and project outcomes by adapting quickly to changing market conditions and through continuous improvement informed by rapid, evidence-based feedback loops.</p>
+
+<h1></h1>
+<h3>Certifications</h3>
+<p align="left">
+<a href="https://github.com/jos-long/certificates_and_badges/blob/main/Certification%2C%20PSM-1.pdf"><img src="https://github.com/jos-long/certificates_and_badges/blob/main/Badge,%20PSM-1.png?raw=true" width="44" alt="Professional Scrum Master I" /></a> <a href="https://github.com/jos-long/certificates_and_badges/blob/main/Certification%2C%20PSPO-1.pdf"><img src="https://github.com/jos-long/certificates_and_badges/blob/main/Badge,%20PSPO-1.png?raw=true" width="44" alt="Professional Scrum Master I" /></a> <a href="https://www.credly.com/badges/34a4e983-96a4-43c2-9c28-f50f5622935c/public_url"><img src="https://github.com/jos-long/images/blob/main/ibm-data-analyst-professional-certificate.png" width="44" alt="IBM Data Analyst Professional Certificate" /></a></p>
+
+<h1></h1>
+<h3>Skills</h3>
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" alt="Python" /></a><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://github.com/jos-long/jos-long/blob/main/pandas_logo_02.png" width="40" alt="Pandas" /></a><a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://github.com/jos-long/jos-long/blob/main/numpy_logo_02.png" width="40" alt="NumPy" /></a> <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://github.com/jos-long/jos-long/blob/main/matplotlib_logo_03.png" width="40" alt="matplotlib"></a> <a href="https://dash.plotly.com/" target="_blank" rel="noreferrer"><img src="https://github.com/jos-long/jos-long/blob/main/plotly_logo.png" width="40" alt="Plotly"></a> <a href="https://www.ibm.com/products/cognos-analytics?utm_content=SRCWW&p1=Search&p4=43700050328202003&p5=e&p9=58700005505951958&gclid=CjwKCAjwnK60BhA9EiwAmpHZwyTaM1SnsBF6b_DQlErrU1n2jkNvOO3UjWQes6CqwUSC4QEhpvTG9hoCNRAQAvD_BwE&gclsrc=aw.ds" target="_blank" rel="noreferrer"><img src="https://github.com/jos-long/images/blob/main/cognos_analytics.png" width="40" alt="Cognos Analytics" /></a> 
+
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" alt="CSS3" /></a></p>
+
+<h1></h1>
+<h3>Tools</h3>
+<p align="left">
+<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://github.com/jos-long/jos-long/blob/main/jira_logo_02.jpg" width="40" alt="Jira" /></a> <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://github.com/jos-long/jos-long/blob/main/jupyter_logo.png" width="40" alt="Jupyter" /></a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="40" alt="VS Code" /></a>
 
 <h1></h1>
 
-
-
+<!-- 
 * 🌍  I'm based in Rochester, NY
 * ✉️  You can contact me at [jos.long@hotmail.com](mailto:jos.long@hotmail.com)
-
-### Skills
-
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://github.com/jos-long/jos-long/blob/main/pandas_logo_02.png" width="36" height="36" alt="Pandas" /></a><a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://github.com/jos-long/jos-long/blob/main/numpy_logo_02.png" width="36" height="36" alt="NumPy" /></a> <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://github.com/jos-long/jos-long/blob/main/matplotlib_logo_03.png" width="36" height="36" alt="matplotlib"></a> <a href="https://dash.plotly.com/" target="_blank" rel="noreferrer"><img src="https://github.com/jos-long/jos-long/blob/main/plotly_logo.png" width="36" height="36" alt="Plotly"></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a> <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://github.com/jos-long/jos-long/blob/main/jupyter_logo.png" width="36" height="36" alt="Jupyter" /></a>
-
-<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://github.com/jos-long/jos-long/blob/main/jira_logo_02.jpg" width="36" height="36" alt="Jira" /></a>
+-->
 
 <!-- PostgreSQL:
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>-->
