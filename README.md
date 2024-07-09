@@ -5,7 +5,7 @@
 <p>I am especially interested in data-driven decision-making within agile frameworks, aimed at improving operational efficiency and project outcomes by enabling teams to quickly adapt to changing market conditions and continuously improve through rapid, evidence-based feedback loops.</p>
 
 <h4>What I Bring to the Table</h4>
-<p>In addition to my <a href="#certs">certifications</a> and developing <a href="#skills">skills</a>:
+<p>In addition to my <a href="#certifications">certifications</a> and developing <a href="#skills">skills</a>:
 <ul>
   <li>Experience leading teams of recognized experts in their own fields</li>
   <li>Ability to work both independently and in a collaborative team environment</li>
@@ -17,7 +17,7 @@
 </p>
 
 <h1></h1>
-<h3 id="#certs">Certifications</h3>
+<h3 id="#certifications">Certifications</h3>
 <p align="left">
 <a href="https://github.com/jos-long/certificates_and_badges/blob/main/Certification%2C%20PSM-1.pdf"><img src="https://github.com/jos-long/certificates_and_badges/blob/main/Badge,%20PSM-1.png?raw=true" width="44" alt="Professional Scrum Master I" /></a> <a href="https://github.com/jos-long/certificates_and_badges/blob/main/Certification%2C%20PSPO-1.pdf"><img src="https://github.com/jos-long/certificates_and_badges/blob/main/Badge,%20PSPO-1.png?raw=true" width="44" alt="Professional Scrum Master I" /></a> <a href="https://github.com/jos-long/certificates_and_badges/blob/main/Certificate%2C%20Coursera%2C%20IBM%20Data%20analytist.pdf"><img src="https://github.com/jos-long/images/blob/main/ibm-data-analyst-professional-certificate.png" width="44" alt="IBM Data Analyst Professional Certificate" /></a></p>
 
