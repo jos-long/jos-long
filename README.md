@@ -6,11 +6,11 @@
 <p>I am especially interested in data-driven decision-making within agile frameworks, aimed at improving operational efficiency and project outcomes by enabling teams to quickly adapt to changing market conditions and continuously improve through rapid, evidence-based feedback loops.</p>
 
 <h4>What I Bring to the Table</h4>
-<p>In addition to my <a href="#certifications">certifications</a> and developing <a href="#skills">skills</a>:
+<p>In addition to my <a href="#certifications">certifications</a> and developing <a href="#skills">skills</a>, I bring:
 <ul>
   <li>Experience leading teams of recognized experts in their own fields</li>
-  <li>Ability to work both independently and in a collaborative team environment</li>
-  <li>Deep understanding of the Scrum framework</li>
+  <li>The ability to work both independently and in a collaborative team environment</li>
+  <li>A deep understanding of the Scrum framework</li>
   <li>Highly developed critical thinking and problem-solving skills</li>
   <li>Well-honed written, verbal, and interpersonal skills</li>
   <li>Perpetual curiousity, a high degree of self-motivatation, and the ability to learn new things very quickly</li>
