@@ -19,7 +19,7 @@
 <h1></h1>
 <h3 id="#certifications">Certifications</h3>
 <p align="left">
-<a href="https://github.com/jos-long/certificates_and_badges/blob/main/Certification%2C%20PSM-1.pdf"><img src="https://github.com/jos-long/certificates_and_badges/blob/main/Badge,%20PSM-1.png?raw=true" width="44" alt="Professional Scrum Master I" /></a> <a href="https://github.com/jos-long/certificates_and_badges/blob/main/Certification%2C%20PSPO-1.pdf"><img src="https://github.com/jos-long/certificates_and_badges/blob/main/Badge,%20PSPO-1.png?raw=true" width="44" alt="Professional Scrum Master I" /></a> <a href="https://github.com/jos-long/certificates_and_badges/blob/main/Certificate%2C%20Coursera%2C%20IBM%20Data%20analytist.pdf"><img src="https://github.com/jos-long/images/blob/main/ibm-data-analyst-professional-certificate.png" width="44" alt="IBM Data Analyst Professional Certificate" /></a></p>
+<a href="https://github.com/jos-long/certificates_and_badges/blob/main/Certification%2C%20PSM-1.pdf"><img src="https://github.com/jos-long/images/blob/main/ibm-data-analyst-professional-certificate.png?raw=true" width="44" alt="Professional Scrum Master I" /></a> <a href="https://github.com/jos-long/certificates_and_badges/blob/main/Certification%2C%20PSPO-1.pdf"><img src="https://github.com/jos-long/certificates_and_badges/blob/main/Badge,%20PSPO-1.png?raw=true" width="44" alt="Professional Scrum Master I" /></a> <a href="https://github.com/jos-long/certificates_and_badges/blob/main/Certificate%2C%20Coursera%2C%20IBM%20Data%20analytist.pdf"><img src="https://github.com/jos-long/images/blob/main/ibm-data-analyst-professional-certificate.png" width="44" alt="IBM Data Analyst Professional Certificate" /></a></p>
 
 <h1></h1>
 <h3 id="#skills">Skills</h3>
