@@ -1,9 +1,9 @@
 <h1>Joseph Long</h1>
 <h4>Perpetually curious life-long learner.</h4>
 
-<p>Having served as a department chair and taught courses in logic, probability, and decision theory, I am excited to transition from academia to technology.</p>
+<p>Academic department chair having taught courses in logic, probability, and decision theory.  Excited to transition from academia to technology.</p>
 
-<p>I am especially interested in refining data-driven decision-making within agile frameworks in order to help teams improve their operational efficiency and project outcomes by adapting quickly to changing market conditions and through continuous improvement informed by rapid, evidence-based feedback loops.</p>
+<p>Especially interested in refining data-driven decision-making within agile frameworks in order to help teams improve their operational efficiency and project outcomes by adapting quickly to changing market conditions and through continuous improvement informed by rapid, evidence-based feedback loops.</p>
 
 <h1></h1>
 <h3>Certifications</h3>
