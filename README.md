@@ -1,17 +1,9 @@
 <h1>Joseph Long</h1>
-<h4>Perpetually curious and a life-long learner by nature.</h4>
-<p>Having served as a department chair and taught courses in logic, probability, and decision theory, I am excited to transition from academia to the field of technology.</p>
-<p>I am especially interested in utilizing data-driven decision-making within agile frameworks in order to help teams enhance their operational efficiency and improve their project outcomes through rapidly adapting to changing market conditions and fostering continuous improvement through evidence-based insights and rapid feedback loops.
+<h4>Perpetually curious life-long learner.</h4>
 
-I am especially interested in data-driven decision-making within agile frameworks in order to enhance organizational efficiency, improve project outcomes, and foster continuous improvement through through informed, evidence-based insights and rapid feedback loops.
+<p>Having served as a department chair and taught courses in logic, probability, and decision theory, I am excited to transition from academia to technology.</p>
 
-I am especially interested in data-driven decision-making within agile frameworks in order to rapidly adapt to changing market conditions, optimize operational efficiency, and enhance customer satisfaction through informed, evidence-based strategies.
-
-I am especially interested in data-driven decision-making within agile frameworks in order to enhance operational efficiency, optimize resource allocation, and drive continuous improvement through informed and adaptive strategies.
-
-
-</p>
-
+<p>I am especially interested in utilizing data-driven decision-making skills within agile frameworks to help teams enhance their operational efficiency and improve their project outcomes through rapidly adapting to changing market conditions and fostering continuous improvement through rapid, evidence-based feedback loops.</p>
 
 <h1></h1>
 
