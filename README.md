@@ -4,6 +4,9 @@
 <p>A department chair who regularly teaches courses in logic, probability, and decision theory, I'm excited to transition from academia to technology.</p>
 <p>I am especially interested in data-driven decision-making within agile frameworks, aimed at improving operational efficiency and project outcomes by enabling teams to quickly adapt to changing market conditions and continuously improve through rapid, evidence-based feedback loops.</p>
 
+<h4>What I Bring to the Table</h4>
+<p>In addition to my certifications and developing skills, </p>
+
 <h1></h1>
 <h3>Certifications</h3>
 <p align="left">
