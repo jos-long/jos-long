@@ -1,7 +1,7 @@
 <h1>Joseph Long</h1>
 <h4>Perpetually curious, data-driven life-long learner.</h4>
 
-<p>I am especially interested in data-driven decision-making within agile frameworks, focused on improving operational efficiency and project outcomes by enabling teams to quickly adapt to changing market conditions and continuously improve through rapid, evidence-based feedback loops.</p>
+<p>I am especially interested in data-driven decision-making within agile frameworks, in order to improve operational efficiency and project outcomes by enabling teams to quickly adapt to changing market conditions and continuously improve through rapid, evidence-based feedback loops.</p>
 
 <h1></h1>
 <h3>Certifications</h3>
