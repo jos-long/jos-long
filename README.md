@@ -8,7 +8,7 @@
 <h4>What I Bring to the Table</h4>
 <p>In addition to my <a href="#certifications">certifications</a> and developing <a href="#skills">skills</a>, I bring:
 <ul>
-  <li>Experience leading teams of recognized experts in their own fields</li>
+  <li>Experience leading teams of recognized experts in their respective fields</li>
   <li>The ability to work both independently and in a collaborative team environment</li>
   <li>A deep understanding of the Scrum framework</li>
   <li>Highly developed critical thinking and problem-solving skills</li>
