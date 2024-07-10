@@ -27,6 +27,7 @@
 <h3 id="#skills">Skills</h3>
 <table>
   <tr>
+    <td align="center" valign="top"><a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://github.com/jos-long/jos-long/blob/main/excel_01.png" width="40" alt="Python" /></a></td>
     <td align="center" valign="top"><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" alt="Python" /></a></td>
     <td align="center" valign="top"><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://github.com/jos-long/jos-long/blob/main/pandas_logo_02.png" width="40" alt="Pandas" /></a></td>
     <td align="center" valign="top"><a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://github.com/jos-long/jos-long/blob/main/numpy_logo_02.png" width="40" alt="NumPy" /></a></td>
@@ -35,6 +36,7 @@
     <td align="center" valign="top"><a href="https://www.ibm.com/products/cognos-analytics?utm_content=SRCWW&p1=Search&p4=43700050328202003&p5=e&p9=58700005505951958&gclid=CjwKCAjwnK60BhA9EiwAmpHZwyTaM1SnsBF6b_DQlErrU1n2jkNvOO3UjWQes6CqwUSC4QEhpvTG9hoCNRAQAvD_BwE&gclsrc=aw.ds" rel="noreferrer"><img src="https://github.com/jos-long/jos-long/blob/main/cognos_analytics.png" width="40" alt="Cognos Analytics" /></a></td>
   </tr>
    <tr>
+    <td align="center" valign="top"><a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">Excel</a></td>
     <td align="center" valign="top"><a href="https://www.python.org/" target="_blank" rel="noreferrer">Python</a></td>
     <td align="center" valign="top"><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">Pandas</a></td>
     <td align="center" valign="top"><a href="https://numpy.org/" target="_blank" rel="noreferrer">NumPy</a></td>
