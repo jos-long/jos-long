@@ -27,7 +27,8 @@
 <h3 id="#skills">Skills</h3>
 <table>
   <tr>
-    <td align="center" valign="top"><a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://github.com/jos-long/jos-long/blob/main/excel_01.png" width="40" alt="Python" /></a></td>
+    <td align="center" valign="top"><a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://github.com/jos-long/jos-long/blob/main/excel_01.png" width="40" alt="Excel" /></a></td>
+    <td align="center" valign="top"><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://github.com/jos-long/jos-long/blob/main/sql.jpg" width="40" alt="SQL" /></a></td>
     <td align="center" valign="top"><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" alt="Python" /></a></td>
     <td align="center" valign="top"><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://github.com/jos-long/jos-long/blob/main/pandas_logo_02.png" width="40" alt="Pandas" /></a></td>
     <td align="center" valign="top"><a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://github.com/jos-long/jos-long/blob/main/numpy_logo_02.png" width="40" alt="NumPy" /></a></td>
@@ -37,6 +38,7 @@
   </tr>
    <tr>
     <td align="center" valign="top"><a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">Excel</a></td>
+    <td align="center" valign="top"><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">SQL</a></td>
     <td align="center" valign="top"><a href="https://www.python.org/" target="_blank" rel="noreferrer">Python</a></td>
     <td align="center" valign="top"><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">Pandas</a></td>
     <td align="center" valign="top"><a href="https://numpy.org/" target="_blank" rel="noreferrer">NumPy</a></td>
