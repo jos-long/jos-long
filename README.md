@@ -21,7 +21,7 @@
 <h1></h1>
 <h3 id="#certifications">Certifications</h3>
 <p align="left">
-<a href="https://github.com/jos-long/jos-long/blob/main/Certification%2C%20PSM-1.pdf"><img src="https://github.com/jos-long/jos-long/blob/main/Badge%2C%20PSM-1.png" width="44" alt="Professional Scrum Master I" /></a> <a href="https://github.com/jos-long/jos-long/blob/main/Certification%2C%20PSPO-1.pdf"><img src="https://github.com/jos-long/jos-long/blob/main/Badge%2C%20PSPO-1.png" width="44" alt="Professional Scrum Product Owner I" /></a> <a href="https://github.com/jos-long/jos-long/blob/main/Certificate%2C%20Coursera%2C%20IBM%20Data%20analytist.pdf"><img src="https://github.com/jos-long/jos-long/blob/main/ibm-data-analyst-professional-certificate.png" width="44" alt="IBM Data Analyst Professional Certificate" /></a></p>
+<a href="https://github.com/jos-long/jos-long/blob/main/Certification%2C%20PSM-1.pdf"><img src="https://github.com/jos-long/jos-long/blob/main/Badge%2C%20PSM-1.png" width="60" alt="Professional Scrum Master I" /></a> <a href="https://github.com/jos-long/jos-long/blob/main/Certification%2C%20PSPO-1.pdf"><img src="https://github.com/jos-long/jos-long/blob/main/Badge%2C%20PSPO-1.png" width="60" alt="Professional Scrum Product Owner I" /></a> <a href="https://github.com/jos-long/jos-long/blob/main/Certificate%2C%20Coursera%2C%20IBM%20Data%20analytist.pdf"><img src="https://github.com/jos-long/jos-long/blob/main/ibm-data-analyst-professional-certificate.png" width="60" alt="IBM Data Analyst Professional Certificate" /></a></p>
 
 <h1></h1>
 <h3 id="#skills">Skills</h3>
@@ -43,15 +43,34 @@
     <td align="center" valign="top"><a href="https://www.ibm.com/products/cognos-analytics?utm_content=SRCWW&p1=Search&p4=43700050328202003&p5=e&p9=58700005505951958&gclid=CjwKCAjwnK60BhA9EiwAmpHZwyTaM1SnsBF6b_DQlErrU1n2jkNvOO3UjWQes6CqwUSC4QEhpvTG9hoCNRAQAvD_BwE&gclsrc=aw.ds" rel="noreferrer">Cognos<br>Analytics</a></td>
   </tr>
 </table>
-<p align="left">
-    
 
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" alt="CSS3" /></a></p>
+<table>
+  <tr>
+    <td align="center" valign="top"><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" alt="HTML5" /></a></td>
+    <td align="center" valign="top"><a href="https://www.w3.org/TR/CSS/#css" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" alt="CSS3" /></a></td>
+  </tr>
+  <tr>
+   <td align="center" valign="top"><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" rel="noreferrer">HTML5</a></td>
+    <td align="center" valign="top"><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">CSS3</a></td>
+  </tr>
+</table>    
+
+
 
 <h1></h1>
 <h3>Tools</h3>
-<p align="left">
-<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://github.com/jos-long/jos-long/blob/main/jira_logo_02.jpg" width="40" alt="Jira" /></a> <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://github.com/jos-long/jos-long/blob/main/jupyter_logo.png" width="40" alt="Jupyter" /></a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="40" alt="VS Code" /></a>
+<table>
+  <tr>
+    <td align="center"><a href="https://www.atlassian.com/software/jira" rel="noreferrer"><img src="https://github.com/jos-long/jos-long/blob/main/jira_logo_02.jpg" width="40" alt="Jira" /></a></td>
+    <td align="center"><a href="https://jupyter.org/" rel="noreferrer"><img src="https://github.com/jos-long/jos-long/blob/main/jupyter_logo.png" width="40" alt="Jupyter" /></a></td>
+    <td align="center"><a href="https://code.visualstudio.com/" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="40" alt="VS Code" /></a></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><a href="https://www.atlassian.com/software/jira" rel="noreferrer">Jira</a></td>
+    <td align="center" valign="top"><a href="https://jupyter.org/" rel="noreferrer">Jupyter<br>Notebooks</a></td>
+    <td align="center" valign="top"><a href="https://code.visualstudio.com/" rel="noreferrer">VS Code</a></td>
+  </tr>
+</table>
 
 <h1></h1>
 
