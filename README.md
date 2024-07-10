@@ -13,7 +13,7 @@
   <li>A deep understanding of the Scrum framework</li>
   <li>Highly developed critical thinking and problem-solving skills</li>
   <li>Well-honed written, verbal, and interpersonal skills</li>
-  <li>Perpetual curiosity, a high degree of self-motivatation, and the ability to learn new things very quickly</li>
+  <li>Perpetual curiosity, a high degree of self-motivation, and the ability to learn new things very quickly</li>
 </ul>
 
 </p>
