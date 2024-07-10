@@ -33,8 +33,8 @@
     <td align="center" valign="top"><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://github.com/jos-long/jos-long/blob/main/pandas_logo_02.png" width="40" alt="Pandas" /></a></td>
     <td align="center" valign="top"><a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://github.com/jos-long/jos-long/blob/main/numpy_logo_02.png" width="40" alt="NumPy" /></a></td>
     <td align="center" valign="top"><a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://github.com/jos-long/jos-long/blob/main/matplotlib_logo_03.png" width="40" alt="matplotlib"></a></td>
+    <td align="center" valign="top"><a href="https://seaborn.pydata.org/" target="_blank"><img src="https://github.com/jos-long/jos-long/blob/main/seaborn_logo.png" width="40" alt="Cognos Analytics" /></a></td>
     <td align="center" valign="top"><a href="https://dash.plotly.com/" target="_blank" rel="noreferrer"><img src="https://github.com/jos-long/jos-long/blob/main/plotly_logo.png" width="40" alt="Plotly"></a></td>
-    <td align="center" valign="top"><a href="https://www.ibm.com/products/cognos-analytics?utm_content=SRCWW&p1=Search&p4=43700050328202003&p5=e&p9=58700005505951958&gclid=CjwKCAjwnK60BhA9EiwAmpHZwyTaM1SnsBF6b_DQlErrU1n2jkNvOO3UjWQes6CqwUSC4QEhpvTG9hoCNRAQAvD_BwE&gclsrc=aw.ds" rel="noreferrer"><img src="https://github.com/jos-long/jos-long/blob/main/cognos_analytics.png" width="40" alt="Cognos Analytics" /></a></td>
   </tr>
    <tr>
     <td align="center" valign="top"><a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">Excel</a></td>
@@ -43,8 +43,8 @@
     <td align="center" valign="top"><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">Pandas</a></td>
     <td align="center" valign="top"><a href="https://numpy.org/" target="_blank" rel="noreferrer">NumPy</a></td>
     <td align="center" valign="top"><a href="https://matplotlib.org/" target="_blank" rel="noreferrer">Matplotlib</a></td>
+    <td align="center" valign="top"><a href="https://seaborn.pydata.org/ target="_blank" rel="noreferrer"">Seaborn</a></td>
     <td align="center" valign="top"><a href="https://dash.plotly.com/" target="_blank" rel="noreferrer">Plotly</a></td>
-    <td align="center" valign="top"><a href="https://www.ibm.com/products/cognos-analytics?utm_content=SRCWW&p1=Search&p4=43700050328202003&p5=e&p9=58700005505951958&gclid=CjwKCAjwnK60BhA9EiwAmpHZwyTaM1SnsBF6b_DQlErrU1n2jkNvOO3UjWQes6CqwUSC4QEhpvTG9hoCNRAQAvD_BwE&gclsrc=aw.ds" rel="noreferrer">Cognos<br>Analytics</a></td>
   </tr>
 </table>
 
@@ -66,13 +66,17 @@
 <table>
   <tr>
     <td align="center"><a href="https://www.atlassian.com/software/jira" rel="noreferrer"><img src="https://github.com/jos-long/jos-long/blob/main/jira_logo_02.jpg" width="40" alt="Jira" /></a></td>
-    <td align="center"><a href="https://jupyter.org/" rel="noreferrer"><img src="https://github.com/jos-long/jos-long/blob/main/jupyter_logo.png" width="40" alt="Jupyter" /></a></td>
     <td align="center"><a href="https://code.visualstudio.com/" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="40" alt="VS Code" /></a></td>
+    <td align="center"><a href="https://jupyter.org/" rel="noreferrer"><img src="https://github.com/jos-long/jos-long/blob/main/jupyter_logo.png" width="40" alt="Jupyter" /></a></td>
+    <td align="center" valign="top"><a href="https://www.ibm.com/products/cognos-analytics?utm_content=SRCWW&p1=Search&p4=43700050328202003&p5=e&p9=58700005505951958&gclid=CjwKCAjwnK60BhA9EiwAmpHZwyTaM1SnsBF6b_DQlErrU1n2jkNvOO3UjWQes6CqwUSC4QEhpvTG9hoCNRAQAvD_BwE&gclsrc=aw.ds" rel="noreferrer"><img src="https://github.com/jos-long/jos-long/blob/main/cognos_analytics.png" width="40" alt="Cognos Analytics" /></a></td>
+    
   </tr>
   <tr>
     <td align="center" valign="top"><a href="https://www.atlassian.com/software/jira" rel="noreferrer">Jira</a></td>
-    <td align="center" valign="top"><a href="https://jupyter.org/" rel="noreferrer">Jupyter<br>Notebooks</a></td>
     <td align="center" valign="top"><a href="https://code.visualstudio.com/" rel="noreferrer">VS Code</a></td>
+    <td align="center" valign="top"><a href="https://jupyter.org/" rel="noreferrer">Jupyter<br>Notebooks</a></td>
+    <td align="center" valign="top"><a href="https://www.ibm.com/products/cognos-analytics?utm_content=SRCWW&p1=Search&p4=43700050328202003&p5=e&p9=58700005505951958&gclid=CjwKCAjwnK60BhA9EiwAmpHZwyTaM1SnsBF6b_DQlErrU1n2jkNvOO3UjWQes6CqwUSC4QEhpvTG9hoCNRAQAvD_BwE&gclsrc=aw.ds" rel="noreferrer">Cognos<br>Analytics</a></td>
+    
   </tr>
 </table>
 
