@@ -69,6 +69,7 @@
     <td align="center"><a href="https://code.visualstudio.com/" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="40" alt="VS Code" /></a></td>
     <td align="center"><a href="https://jupyter.org/" rel="noreferrer"><img src="https://github.com/jos-long/jos-long/blob/main/jupyter_logo.png" width="40" alt="Jupyter" /></a></td>
     <td align="center" valign="top"><a href="https://www.ibm.com/products/cognos-analytics?utm_content=SRCWW&p1=Search&p4=43700050328202003&p5=e&p9=58700005505951958&gclid=CjwKCAjwnK60BhA9EiwAmpHZwyTaM1SnsBF6b_DQlErrU1n2jkNvOO3UjWQes6CqwUSC4QEhpvTG9hoCNRAQAvD_BwE&gclsrc=aw.ds" rel="noreferrer"><img src="https://github.com/jos-long/jos-long/blob/main/cognos_analytics.png" width="40" alt="Cognos Analytics" /></a></td>
+     <td align="center" valign="top"><a href="https://www.lucidchart.com/pages" rel="noreferrer"><img src="https://github.com/jos-long/jos-long/blob/main/lucidchart_01.jpg" width="40" alt="Cognos Analytics" /></a></td>
     
   </tr>
   <tr>
@@ -76,6 +77,7 @@
     <td align="center" valign="top"><a href="https://code.visualstudio.com/" rel="noreferrer">VS Code</a></td>
     <td align="center" valign="top"><a href="https://jupyter.org/" rel="noreferrer">Jupyter<br>Notebooks</a></td>
     <td align="center" valign="top"><a href="https://www.ibm.com/products/cognos-analytics?utm_content=SRCWW&p1=Search&p4=43700050328202003&p5=e&p9=58700005505951958&gclid=CjwKCAjwnK60BhA9EiwAmpHZwyTaM1SnsBF6b_DQlErrU1n2jkNvOO3UjWQes6CqwUSC4QEhpvTG9hoCNRAQAvD_BwE&gclsrc=aw.ds" rel="noreferrer">Cognos<br>Analytics</a></td>
+    <td align="center" valign="top"><a href="https://www.lucidchart.com/pages" rel="noreferrer">Lucidchart</a></td>
     
   </tr>
 </table>
